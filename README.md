@@ -1,4 +1,4 @@
-
+Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)
 Key Features:
 - 🌐 Next.js 14 & server actions
 - 🗣 AI Voices using Elevenlabs AI
